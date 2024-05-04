@@ -9,6 +9,9 @@ TagManager:
   - Coin
   - Cherry
   - EnemyThorns
+  - EnemyFly
+  - EnemyBig
+  - Gem
   layers:
   - Default
   - TransparentFX
